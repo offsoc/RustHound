@@ -12,7 +12,7 @@ license = "MIT"
 readme = "README.md"
 
 [dependencies]
-tokio = "1.1"
+tokio = "1.38"
 clap = "4.0"
 nom7 = { version="7.0", package="nom" }
 colored = "2"
